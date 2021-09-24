@@ -27,14 +27,14 @@ service in the composer file, including your database system of choice.
 We understand your time is precious and would not want you to spend more than **3 to 5 hours** on this over the span 
 of **1 week** max. 
 
-Please use a **JVM language**, preferably Java for your backend service. Feel free to use any framework, like Spring 
-for example. Now for the frontend, please use JavaScript (Vanilla JS, React, ...). We want you to provide a responsive 
-implementation. Keep in mind that Doodle is used worldwide and has to work on commonly used browsers. 
+Please use C# for your backend service. Feel free to use any framework or library. 
+Now for the frontend, please use JavaScript (Vanilla JS, React, AngularJS ...). We want you to provide a responsive 
+implementation. The solution has to work on commonly used browsers. 
 
 # What we expect
 It is OK if the challenge is not completed. Try to **prioritize** it by what you think is more important. Tell us what 
 motivated your technology choices, how you tackled the task, what you would do differently were you given more time, 
-what you would differently a second time around, etc.
+what you would do differently a second time around, etc.
 
 Here are some pointers for you of things we will be looking for:
 
@@ -45,9 +45,9 @@ Here are some pointers for you of things we will be looking for:
 * Design: we are not looking for pixel-pushing, but we love attention to detail
 
 # Next steps
-Send an email with a link to your repository solution to `code-challenge@doodle.com`.
+Send an email with a link to your repository solution to `armin.wrobel<at>juliusbaer.com`.
 
 Make sure your email has the following subject: `FS-<yourname>`. So for example, if your name were "Paul Smith", 
 your email subject would be `FS-Paul Smith`
 
-We will review your solution, we strive to get back to you in **1 week**. Sometimes it might take more.
+We will review your solution, we strive to get back to you in less than **1 week**. Sometimes it might take more.
