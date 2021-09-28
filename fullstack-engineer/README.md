@@ -28,7 +28,7 @@ We understand your time is precious and would not want you to spend more than **
 of **1 week** max. 
 
 Please use C# for your backend service. Feel free to use any framework or library. 
-Now for the frontend, please use JavaScript (Vanilla JS, React, AngularJS ...). We want you to provide a responsive 
+Now for the frontend, please use JavaScript or Typescript (Vanilla JS, React, Angular, AngularJS ...). We want you to provide a responsive 
 implementation. The solution has to work on commonly used browsers. 
 
 # What we expect
